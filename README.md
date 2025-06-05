@@ -12,7 +12,3 @@ A retro-style 2D space shooter built with Python and Turtle. Navigate your space
 - Turtle module (included with Python)
 - Optional: `starfield.gif`, `laser.wav`, `explosion.wav` for visuals and sound
 
-## How to Run
-1. Clone the repo: `git clone https://github.com/your-username/SpaceWar-Game.git`
-2. Navigate to the folder: `cd SpaceWar-Game`
-3. Run the game: `python spacewar.py`
